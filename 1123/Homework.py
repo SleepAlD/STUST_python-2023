@@ -39,7 +39,7 @@ emp2.print_employee_details()
 emp3.print_employee_details()
 emp4.print_employee_details()
 
-print("-----------------------------------")
+print("-----------------------------------\n")
 
 emp1.assign_department("SALES")
 emp2.assign_department("OPERATIONS")
@@ -51,7 +51,7 @@ emp2.print_employee_details()
 emp3.print_employee_details()
 emp4.print_employee_details()
 
-print("-----------------------------------")
+print("-----------------------------------\n")
 
 emp1.calculate_emp_salary(69)
 emp2.calculate_emp_salary(44)
